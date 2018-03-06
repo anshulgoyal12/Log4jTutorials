@@ -1,0 +1,8 @@
+17:56:05.984 [main] DEBUG beta.Demo1 - I have to clicking on button
+17:56:05.995 [main] INFO  beta.Demo1 - Button is displayed
+17:56:05.995 [main] ERROR beta.Demo1 - Button is not displayed
+17:56:05.995 [main] FATAL beta.Demo1 - Button is missing
+17:56:09.362 [main] DEBUG beta.Demo1 - I have to clicking on button
+17:56:09.365 [main] INFO  beta.Demo1 - Button is displayed
+17:56:09.365 [main] ERROR beta.Demo1 - Button is not displayed
+17:56:09.365 [main] FATAL beta.Demo1 - Button is missing
